@@ -1,0 +1,27 @@
+{
+  "name": "finch",
+  "version": "0.2.5",
+  "description": "base website",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "4.13.3",
+    "msnger": "^0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scoradia/finch"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
